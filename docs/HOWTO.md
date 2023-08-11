@@ -31,10 +31,10 @@ One way to begin is to start idle3 (which might just be "idle" on
 Windows), create a new file, and then use the "save as" command to 
 save it within your project directory. Save it as "sample.py". 
 
-[!Note]
-If you are using another IDE, the command for creating a new program 
-file will be different.  For example, in PyCharm the `File` menu has 
-a `new` choice, and within that submenu you can choose `Python file`. 
+> [!Note]
+> If you are using another IDE, the command for creating a new program 
+> file will be different.  For example, in PyCharm the `File` menu has 
+> a `new` choice, and within that submenu you can choose `Python file`. 
 
 ## Hello, world
 
