@@ -11,14 +11,14 @@ of the instructions.
 The starter project is very simple:  Create a Python program, test 
 it, and turn it in through Canvas. 
 
-**Note** 
-These instructions reflect that the default development environment 
-for CS 210 is IDLE, which comes packaged with Python.  Students are 
-welcome to use another development environment, such as PyCharm or 
-VSCode, but it will be up to them to re-interpret some directions 
-for variations between tools. We will provide a few pointers to 
-differences in this project, but in subsequent projects you will be 
-on your own. 
+>[!Note]
+> These instructions reflect that the default development environment 
+> for CS 210 is IDLE, which comes packaged with Python.  Students are 
+> welcome to use another development environment, such as PyCharm or 
+> VSCode, but it will be up to them to re-interpret some directions 
+> for variations between tools. We will provide a few pointers to 
+> differences in this project, but in subsequent projects you will be 
+> on your own. 
 
 ## Create a Python program
 
@@ -54,8 +54,8 @@ That's it -- the whole program.   Use idle to save it.
 Run your "hello world" program (use the "run module" command in the 
 "Run" menu of Idle).  
 
-[!Note]
-In PyCharm you can use the `run` choice in the `run` menu. 
+> [!Note]
+> In PyCharm you can use the `run` choice in the `run` menu. 
 
 ## Create a bug
 
@@ -75,9 +75,9 @@ something like this:
 ![IDLE message popup says "missing parentheses in call to print"](
 img/missing-parens.png)
 
-[!Note]
-In PyCharm, the error message will appear in a separate pane called 
-"Run".
+> [!Note]
+> In PyCharm, the error message will appear in a separate pane called 
+> "Run".
 
 If you do _not_ get an error message, you are probably using the 
 version of `idle` that comes with Python 2.7.   That is the wrong 
