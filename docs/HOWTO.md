@@ -11,7 +11,7 @@ of the instructions.
 The starter project is very simple:  Create a Python program, test 
 it, and turn it in through Canvas. 
 
-[!Note]
+**Note** 
 These instructions reflect that the default development environment 
 for CS 210 is IDLE, which comes packaged with Python.  Students are 
 welcome to use another development environment, such as PyCharm or 
