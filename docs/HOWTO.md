@@ -6,6 +6,20 @@ the instructions through github ... click on the "docs" link, then
 the "HOWTO.md" link, and you should see a nicely formatted version 
 of the instructions. 
 
+### Are you seeing hash-marks? 
+
+If you are seeing hash marks (`#`) on the headings, then you are
+probably looking at the raw Markdown source. The simplest way to see the
+proper formatted code is
+to [read this file on gitub using your browser](
+https://github.com/UO-CS210/starter/blob/main/docs/HOWTO.md). You could
+also install a Markdown editor on your laptop (there are lots of free
+Markdown editors to choose from) and use its preview mode. If you are
+using VS Code, you can view it in "preview mode" using the keyboard
+combination Ctrl-Shift-V (Windows) or Command-Shift-V (MacOS). In
+PyCharm you will see source, preview, or split-screen mode options in
+the upper right corner of the editing window.
+
 ## Starter project
 
 The starter project is very simple:  Create a Python program, test 
